@@ -1,6 +1,6 @@
 {
   "name": "perspective-distortion-correction-embed",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Understanding matrix3d css all the way to applying it with linear algebra to fix perspective distortion via direct liner transformation.",
   "main": "index.html",
   "scripts": {
